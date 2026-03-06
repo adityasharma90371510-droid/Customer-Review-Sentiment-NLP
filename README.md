@@ -21,3 +21,11 @@ This project analyzes large-scale customer reviews using natural language proces
 
 ## Tools Used
 Python, Pandas, NLTK, Transformers, Seaborn
+## Dataset
+
+The dataset used for this project is the Amazon Fine Food Reviews dataset containing over 568,000 customer reviews.
+
+Due to file size limitations, the dataset is not included in this repository.
+
+Dataset source:
+https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
